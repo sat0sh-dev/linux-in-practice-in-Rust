@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# Rust backup files
+**/*.rs.bk
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
