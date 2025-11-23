@@ -1,8 +1,7 @@
 [workspace]
 members = [
-    # Add each chapter
-    # "chap01",
-    # "chap02",
+    "chap01",
+    "chap02",
 ]
 resolver = "2"
 
