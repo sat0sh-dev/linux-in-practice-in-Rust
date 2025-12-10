@@ -6,7 +6,8 @@ members = [
     "chap04",
     "chap05",
     "chap07",
-    "chap08", 
+    "chap08",
+    "chap09", 
 ]
 resolver = "2"
 
